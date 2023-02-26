@@ -1,0 +1,13 @@
+.button.block {
+  display: block;
+  width: 200px;
+}
+
+.margin-auto {
+  margin: 0 auto;
+}
+
+#button {
+  display: flex;
+  justify-content: flex-end;
+}
